@@ -12,23 +12,6 @@ const dots = document.querySelectorAll(".dot");
 let slideIndex = 0;
 
 // Funções
-function smoothScroll(e) {
-  e.preventDefault();
-
-  const href = this.getAttribute("href");
-  const offsetTop = document.que56rySelector(href).offsetTop;
-
-  scroll({
-    top: offsetTop,
-    behavior: "smooth",
-  });
-
-  setTimeout(() => {
-    if (menu.classList.contains("menu-active")) {
-      menu.classList.remove("menu-active");
-    }
-  }, 500);
-}
 
 function showSlides() {
   for (let i = 0; i < slides.length; i++) {
