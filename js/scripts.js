@@ -34,9 +34,6 @@ function showSlides() {
   });
 });
 
-allLinks.forEach((link) => {
-  link.addEventListener("click", smoothScroll);
-});
 
 // Inicialização
 showSlides();
