@@ -13,7 +13,7 @@ Esse foi um projeto relativamente grande para alguem de nível iniciante. Então
  
 Todos esses pontos foram explorados de forma limitada, mas com a exposição constante e gradativa senti uma certa evolução em cada uma deles. Programação parece assustador as vezes, mas hoje menos do que quando comecei a estudar. Segue um print do projeto na versão desktop:
 
-  ![institucional](https://ibb.co/zZZQ9zK)
+ <a href="https://ibb.co/zZZQ9zK"><img src="https://i.ibb.co/HqqBwjm/pearson-hardman.png" alt="pearson-hardman" border="0"></a>
 
  
 <ul>  
