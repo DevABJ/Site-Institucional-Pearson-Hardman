@@ -3,6 +3,7 @@
 <br>
 <a href="https://ibb.co/zZZQ9zK"><img src="https://i.ibb.co/HqqBwjm/pearson-hardman.png" alt="pearson-hardman" border="0"></a>
 <br>
+<h2>Versão Mobile</h2>
 <a href="https://ibb.co/FwkWvFZ"><img src="https://i.ibb.co/Njg3hMD/Fire-Shot-Capture-004-Pearson-Hardman-site-institucional-pearson-hardman-vercel-app.png" alt="Fire-Shot-Capture-004-Pearson-Hardman-site-institucional-pearson-hardman-vercel-app" border="0"></a>
 
 <h2> 📚 Aprendizado</h2>
