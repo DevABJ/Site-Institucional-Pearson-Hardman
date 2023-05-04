@@ -10,6 +10,7 @@ Esse foi um projeto relativamente grande para alguem de nível iniciante. Então
   <li>Uso dos seletores corretos em regras CSS.</li>
   <li>Importação de fontes.</li>
   <li>Importar recursos como icones do bootstrap.</li>
+  <li>Responsivo para celulares.</li>
   <li>Nocões de Javascript para front end para funções como menu hamburguer e apresentar o conteudo em slides.</li>
 </ul>   
   
