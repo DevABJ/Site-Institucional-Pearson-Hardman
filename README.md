@@ -28,6 +28,6 @@ Todos esses pontos foram explorados de forma limitada, mas com a exposição con
 
  
 
- 
+ <a href="https://ibb.co/FwkWvFZ"><img src="https://i.ibb.co/FwkWvFZ/Fire-Shot-Capture-004-Pearson-Hardman-site-institucional-pearson-hardman-vercel-app.png" alt="Fire-Shot-Capture-004-Pearson-Hardman-site-institucional-pearson-hardman-vercel-app" border="0"></a>
  
 
