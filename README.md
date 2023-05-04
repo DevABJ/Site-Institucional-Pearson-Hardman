@@ -9,5 +9,12 @@ Esse foi um projeto relativamente grande para alguem de nível iniciante. Então
   <li>Uso dos seletores corretos em regras CSS.</li>
   <li>Importação de fontes.</li>
   <li>Importar recursos como icones do bootstrap.</li>
+  <li>Nocões de Javascript para front end para funções como menu hamburguer e apresentar o conteudo em slides.</li>
+ 
+Todos esses pontos foram explorados de forma limitada, mas com a exposição constante e gradativa senti uma certa evolução em cada uma deles. Programação parece assustador as vezes, mas hoje menos do que quando comecei a estudar. Segue um print do projeto na versão desktop:
+
+  ![institucional](https://ibb.co/zZZQ9zK)
+
+ 
 <ul>  
 </p>
