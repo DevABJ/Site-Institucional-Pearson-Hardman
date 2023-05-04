@@ -2,7 +2,7 @@
 
 <h2> 📚 Aprendizado</h2>
 <p>
-Esse foi um projeto relativamente grande para alguem de nível iniciante. Flexbox foi ultilizado muitas vezes. Então consegui aprender algumas coisas sobre o tema. Além disso erros de sintaxe com erros sintáticos e semânticos, que até o momento não tinha me incomodado tanto.
+Esse foi um projeto relativamente grande para alguem de nível iniciante. Então consegui aprofundar um pouco mais meus conhecimentos nos pontos a seguir:
 <ul>
   <li>Flexbox.</li>
   <li>Erros sintáticos e semânticos.</li>
