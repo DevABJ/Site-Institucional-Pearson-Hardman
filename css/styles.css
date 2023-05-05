@@ -8,8 +8,6 @@
   --secondary-bg-color: #5c1011;
 }
 
-/*Por qual motivo se usa padding e margin 0, junto com border-box na maioria dos projetos?*/
-
 * {
   font-family: "Lato";
   padding: 0;
@@ -21,7 +19,6 @@ a {
   text-decoration: none;
 }
 
-/*Por qual motivo o witth das imagens tem que ser 100%*/
 img {
   width: 100%;
 }
@@ -29,7 +26,7 @@ img {
 input[type="submit"] {
   cursor: pointer;
 }
-/*Por qual motivo existe um valor de atributo definido como variavel?*/
+
 i {
   background-color: var(--main-color);
   color: var(--primary-text-color);
